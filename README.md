@@ -31,10 +31,8 @@
 |  5	| 도로 영역을 찾자! - 세그멘테이션 모델 만들기 | Sementic Segmentation | [🔗](https://github.com/wnsk0427/2023-AIFFEL-QUEST/tree/master/GoingDeeperQUEST05)
 |  6	| 직접 만들어보는 OCR | Optical Character Recognition | [🔗](https://github.com/wnsk0427/2023-AIFFEL-QUEST/tree/master/GoingDeeperQUEST06)
 |  7	| 멀리 있는 사람도 스티커를 붙여주자 | One-Stage Object Detection | [🔗](https://github.com/wnsk0427/2023-AIFFEL-QUEST/tree/master/GoingDeeperQUEST07)
-<!--
-|  8	| 행동 스티커 만들기 |  | [🔗]()
-|  9	| CV 최신 트렌드 |  | [🔗]()
--->
+|  8	| 행동 스티커 만들기 | Human Pose Estimation | [🔗](https://github.com/wnsk0427/2023-AIFFEL-QUEST/tree/master/GoingDeeperQUEST08)
+|  9	| Stable Diffusion, 너 Do? 나 Do! | Stable Diffusion | [🔗](https://github.com/wnsk0427/2023-AIFFEL-QUEST/tree/master/GoingDeeperQUEST09)
 
 ## Main QUEST
 
@@ -43,3 +41,7 @@
 |  1  | 폐렴아 기다려라! | [🔗](https://github.com/wnsk0427/2023-AIFFEL-QUEST/tree/master/MainQUEST01) |
 |  2  | PASCAL VOC 2012 | [🔗](https://github.com/wnsk0427/2023-AIFFEL-QUEST/tree/master/MainQUEST02) |
 |  3  | Motorcycle Night Road | [🔗](https://github.com/wnsk0427/2023-AIFFEL-QUEST/tree/master/MainQUEST03) |
+<!--
+|  4  |  | [🔗](https://github.com/wnsk0427/2023-AIFFEL-QUEST/tree/master/MainQUEST04) |
+|  5  |  | [🔗](https://github.com/wnsk0427/2023-AIFFEL-QUEST/tree/master/MainQUEST05) |
+-->
